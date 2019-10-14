@@ -32,6 +32,8 @@ In this thread, I am going to explain all the terminologies regarding the GITFlo
 * [Master Branch](/MasterBranch.md)
 
 
+
+
 Explanation of how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company:
 
 	In software engineering, continuous integration is the practice of merging all developers' working copies to a shared mainline several times a day. Grady Booch first proposed the term CI in his 1991 method, although he did not advocate integrating several times a day.
