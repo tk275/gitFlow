@@ -1,0 +1,26 @@
+- Steven Morales
+- Worked on the following commands
+  - cd
+  - mkdir
+  - cp
+  - pwd
+  - mv
+  - rm
+  - history
+  - Home directory
+  - Using the tab key to complete file paths
+  - Using up and down arrow for history
+- Tanvir Khan
+- Worked on the following commands
+  - Repository
+  - Clone
+  - Fork
+  - Branch
+  - Commit
+  - Merge
+  - Checkout
+  - Push
+  - Pull
+  - Remote Add/ Remove/ Show
+  - Status
+  - Master Branch
