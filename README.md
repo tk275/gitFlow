@@ -48,4 +48,4 @@ Explanation of how the usage of Git, Docker, automated testing, and continuous i
 	https://docs.docker.com/docker-hub/builds/link-source/
 	Docker meshes with GitHub. Developers submit the code into GitHub, test the code that automatically triggers a build. This build can added to Docker registry in different environments and can certainly help the process of eliminating any bugs that are visible for fixes.
 
-All the traits and attributes mentioned above help a company to flurish in the field. Competetive and Productive can be comprehended as keywords in a company's goals and vision if the the methodologies are implemented accordingly.
+All the traits and attributes mentioned above help a company to flurish in the field. Competetive and Productive can be comprehended as keywords in a company's goals and vision if the the methodologies are implemented accordingly....
